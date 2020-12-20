@@ -1,7 +1,7 @@
 {
   "name": "monitorss-clone",
   "author": "synzen",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Repository of MonitoRSS meant for cloning",
   "license": "MIT",
   "main": "server.js",
@@ -11,8 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "monitorss": "^6.9.1",
-    "monitorss-web": "0.0.85"
+    "monitorss": "^6.10.1",
+    "monitorss-web": "0.0.86"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
